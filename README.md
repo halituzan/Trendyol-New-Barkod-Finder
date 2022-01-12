@@ -5,4 +5,4 @@ Bu Chrome eklentisi Trendyol'daki ürünlerin barkodunu kolayca bulup kopyalaman
 
 ## License
 
-[MIT](./LICENSE.md)
+[MIT](./LICENSE)
