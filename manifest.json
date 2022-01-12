@@ -20,14 +20,12 @@
 		"default_popup":"index.html"
 	},
 	"permissions":[
-		"activeTab",
 		"https://www.trendyol.com/",
 		"http://www.trendyol.com/"
 	],
 
 	"content_scripts": [
    {
-
      "matches": ["*://*.trendyol.com/*"],
 	 "css": ["css/style.css"],
      "js": [
